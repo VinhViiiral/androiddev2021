@@ -34,5 +34,9 @@ public class WeatherActivity extends AppCompatActivity {
         super.onStop();
         Log.i("Stop","onStop: ");
     }
-
+    @Override
+    protected void onDestroy(){
+        super.onDestroy();
+        Log.i("Destroy","onDestroy");
+    }
 }
