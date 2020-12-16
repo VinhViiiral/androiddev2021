@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Mguyen Thanh Vinh
+* Name: Nguyen Thanh Vinh
 * ID: BI8-187
 * Group ID: 9
 
